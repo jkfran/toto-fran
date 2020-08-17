@@ -1,4 +1,5 @@
 name: toto-fran
+base: core20
 version: '0.1'
 summary: Holaaaaaa
 description: |
